@@ -23,7 +23,24 @@ This project was developed as part of our Capstone Project.
 1. Data preprocessing and cleaning.  
 2. Feature extraction using **TF-IDF**.  
 3. Model training and evaluation.  
-4. Streamlit app for real-time message classification.  
+4. Streamlit app for real-time message classification.
+
+---
+## 🔮 Future Work
+
+- Expanding dataset with multilingual phishing samples.
+- Improving detection with deep learning models.
+- Adding API support for integration with email servers.
+---
+## 👩‍💻 Contributors
+
+- Huda Alzahrani
+- Rimas Alanazi
+- Layan Alghamdi
+- Leena Alasous
+
+---
+
 
 
 
