@@ -1,0 +1,18 @@
+# أساسي
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+# احتياطي (ممكن تحتاجيه للتعامل مع النصوص)
+nltk
+regex
+
+# احتياطي (إذا كان فيه visualization أو تجارب)
+matplotlib
+seaborn
+
+# احتياطي (لو كنتي تستخدمين deep learning)
+tensorflow
+keras
